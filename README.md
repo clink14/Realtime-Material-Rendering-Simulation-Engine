@@ -42,6 +42,7 @@ Interactive controls:
 - Reset to defaults
 
 ## Project Structure
+```
 .
 ├── index.html
 ├── style.css
@@ -51,6 +52,7 @@ Interactive controls:
 ├── materials.js # Material factory + uniform setup
 ├── shaders.js # Vertex/fragment GLSL shaders
 └── physics.js # Soft-body deformation system
+```
 
 ## How to Run
 - Live Demo: https://clink14.github.io/Realtime-Material-Rendering-Simulation-Engine/
