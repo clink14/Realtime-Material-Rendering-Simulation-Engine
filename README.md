@@ -47,11 +47,11 @@ Interactive controls:
 ├── index.html
 ├── style.css
 └── js/
-├── main.js # Scene, camera, renderer, physics loop
-├── ui.js # UI binding and event handlers
-├── materials.js # Material factory + uniform setup
-├── shaders.js # Vertex/fragment GLSL shaders
-└── physics.js # Soft-body deformation system
+    ├── main.js        # Scene, camera, renderer, physics loop
+    ├── ui.js          # UI binding and event handlers
+    ├── materials.js   # Material factory + uniform setup
+    ├── shaders.js     # Vertex/fragment GLSL shaders
+    └── physics.js     # Soft-body deformation system
 ```
 
 ## How to Run
