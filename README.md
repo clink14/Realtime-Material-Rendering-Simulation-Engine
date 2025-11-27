@@ -41,6 +41,12 @@ Interactive controls:
 - Camera Rotation toggle
 - Reset to defaults
 
+### 5. User Interaction
+- **Rotate Camera:** Left Drag  
+- **Move Position:** Right Drag  
+- **Zoom:** Scroll  
+- **Deform Surface(Slime Mode):** Click + Drag
+
 ## Project Structure
 ```
 .
